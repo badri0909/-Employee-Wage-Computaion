@@ -1,0 +1,8 @@
+D:\bridge labs\Employee-Wage-Computaion\EmployeeWage\EmployeeWage\bin\Debug\EmployeeWage.exe.config
+D:\bridge labs\Employee-Wage-Computaion\EmployeeWage\EmployeeWage\bin\Debug\EmployeeWage.exe
+D:\bridge labs\Employee-Wage-Computaion\EmployeeWage\EmployeeWage\bin\Debug\EmployeeWage.pdb
+D:\bridge labs\Employee-Wage-Computaion\EmployeeWage\EmployeeWage\obj\Debug\EmployeeWage.csproj.AssemblyReference.cache
+D:\bridge labs\Employee-Wage-Computaion\EmployeeWage\EmployeeWage\obj\Debug\EmployeeWage.csproj.SuggestedBindingRedirects.cache
+D:\bridge labs\Employee-Wage-Computaion\EmployeeWage\EmployeeWage\obj\Debug\EmployeeWage.csproj.CoreCompileInputs.cache
+D:\bridge labs\Employee-Wage-Computaion\EmployeeWage\EmployeeWage\obj\Debug\EmployeeWage.exe
+D:\bridge labs\Employee-Wage-Computaion\EmployeeWage\EmployeeWage\obj\Debug\EmployeeWage.pdb
